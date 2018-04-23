@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Infinite Scrolling</string>
+
+    <string name="txt_all_count">Loading Info</string>
+    <string name="txt_download_count">Download Image Count: </string>
+</resources>
